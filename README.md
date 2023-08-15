@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ciemnykoksu
 - 🌱 I’m currently learning JavaScript, React, React Native
 
+![](https://komarev.com/ghpvc/?username=ciemnykoksu&color=green)
 
 <!---
 ciemnykoksu/ciemnykoksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
