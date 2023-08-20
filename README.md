@@ -1,7 +1,7 @@
 
 <h1 align="left">My Profile</h1>
 <h3 align="left">👋 Hi, I’m @ciemnykoksu</h3>
-<h3 align="left">🌱 I’m currently learning JavaScript, React, React Nativeu and MERN</h3>
+<h3 align="left">🌱 I’m currently learning JavaScript, React, React Native and MERN</h3>
 
 <br />
 
