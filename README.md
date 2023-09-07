@@ -13,7 +13,7 @@
 
 <br>
 
-> On the internet, I go by the name Dawid. I'm from Poland and I've been coding for 3.5 years. I primarily focus on developing interactive websites and mobile applications. I have a deep love for coding and I'm always eager to learn about new technologies! 💻📱
+> On the internet, I go by the name Dawid. I'm from Poland and I've been coding for 3.5 years. I primary focus on developing interactive websites and mobile applications. I have a deep love for coding and I'm always eager to learn about new technologies! 💻📱
 
 <br>
 
