@@ -2,7 +2,7 @@
 
 <br>
 
-> On the internet, I go by the name Dawid. I'm from Poland <br> and I've been coding for 3 years. I primary focus on developing <br> interactive websites and mobile applications. <br> I have a deep love for coding and I'm always eager to learn about new technologies! 💻📱
+> Hi there! I'm Dawid, a developer from Poland, passionate about building interactive websites and mobile applications that deliver engaging user experiences. I enjoy crafting clean, efficient code and constantly exploring new tools and technologies to expand my skill set. Always ready to take on new challenges and push the limits of what’s possible with code! 💻📱
 
 <br>
 
